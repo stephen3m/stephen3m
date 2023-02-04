@@ -1,15 +1,5 @@
 Hi there 👋
 
-<p align="center">
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=stephen3m&show_icons=true&theme=dracula" height="165px">
-</p>
-
-<p align="center">
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=stephen3m&theme=dracula&layout=compact">
-<p>
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=stephen3m&show_icons=true&theme=radical)
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stephen3m&theme=dracula&layout=compact">
